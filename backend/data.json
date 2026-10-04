@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Bài viết đầu tiên",
+    "content": "Nội dung bài 1",
+    "author": "Admin",
+    "createdAt": "2026-10-04T08:00:00.000Z",
+    "comments": [
+      {
+        "id": 1791081216568,
+        "author": "A",
+        "content": "ABCA"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hướng dẫn NextJS",
+    "content": "Nội dung bài 2",
+    "author": "Admin",
+    "createdAt": "2026-10-04T08:30:00.000Z",
+    "comments": []
+  }
+]
